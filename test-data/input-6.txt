@@ -1,0 +1,5 @@
+#primary fired last time BUT sec is empty, primary fires again
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
