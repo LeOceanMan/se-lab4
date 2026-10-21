@@ -1,0 +1,3 @@
+#ALL fail
+GT4500,10,1,0,0
+TORPEDO,ALL
